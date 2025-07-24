@@ -4,4 +4,4 @@ digitais no telegram.
 Pode (E DEVE) ser melhorado.
 
 
-Se encontra funcional até o momento.
+Bot e api para consumir aplicações MERCADO-PAGO Se encontram funcionais até o momento.
